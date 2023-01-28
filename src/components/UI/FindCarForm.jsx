@@ -23,7 +23,7 @@ const FindCarForm = () => {
           <input
             className="journey__time"
             type="time"
-            placeholder="Journey time"
+            placeholder="Times"
             required
           />
         </FormGroup>

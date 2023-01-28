@@ -52,7 +52,7 @@ const Testimonial = () => {
           <img src={ava01} alt="" className="w-25 h-25 rounded-2" />
 
           <div>
-            <h6 className="mb-0 mt-3">Jhon Doe</h6>
+            <h6 className="mb-0 mt-3">Name</h6>
             <p className="section__description">Customer</p>
           </div>
         </div>
@@ -67,10 +67,10 @@ const Testimonial = () => {
         </p>
 
         <div className="mt-3 d-flex align-items-center gap-4">
-          <img src={ava02} alt="" className="w-25 h-25 rounded-2" />
+          <img src={ava01} alt="" className="w-25 h-25 rounded-2" />
 
           <div>
-            <h6 className="mb-0 mt-3">Jhon Doe</h6>
+            <h6 className="mb-0 mt-3">Name</h6>
             <p className="section__description">Customer</p>
           </div>
         </div>
@@ -85,10 +85,10 @@ const Testimonial = () => {
         </p>
 
         <div className="mt-3 d-flex align-items-center gap-4">
-          <img src={ava03} alt="" className="w-25 h-25 rounded-2" />
+          <img src={ava01} alt="" className="w-25 h-25 rounded-2" />
 
           <div>
-            <h6 className="mb-0 mt-3">Jhon Doe</h6>
+            <h6 className="mb-0 mt-3">Name</h6>
             <p className="section__description">Customer</p>
           </div>
         </div>
@@ -103,10 +103,10 @@ const Testimonial = () => {
         </p>
 
         <div className="mt-3 d-flex align-items-center gap-4">
-          <img src={ava04} alt="" className="w-25 h-25 rounded-2" />
+          <img src={ava01} alt="" className="w-25 h-25 rounded-2" />
 
           <div>
-            <h6 className="mb-0 mt-3">Jhon Doe</h6>
+            <h6 className="mb-0 mt-3">Name</h6>
             <p className="section__description">Customer</p>
           </div>
         </div>
